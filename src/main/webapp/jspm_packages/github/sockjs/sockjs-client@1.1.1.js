@@ -1,0 +1,1 @@
+module.exports = require("github:sockjs/sockjs-client@1.1.1/lib/entry.js");

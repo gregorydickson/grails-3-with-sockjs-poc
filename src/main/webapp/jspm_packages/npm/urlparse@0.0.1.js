@@ -1,0 +1,1 @@
+module.exports = require("npm:urlparse@0.0.1/urlparse.js");

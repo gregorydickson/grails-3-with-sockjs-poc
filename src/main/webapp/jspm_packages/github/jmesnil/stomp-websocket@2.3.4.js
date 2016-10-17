@@ -1,0 +1,1 @@
+module.exports = require("github:jmesnil/stomp-websocket@2.3.4/lib/stomp.min");
